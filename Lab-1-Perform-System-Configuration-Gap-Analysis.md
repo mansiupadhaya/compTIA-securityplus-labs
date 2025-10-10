@@ -1,4 +1,4 @@
-# Lab 1.1.6: Perform System Configuration Gap Analysis
+# Lab 1: Perform System Configuration Gap Analysis
 
 ### Objective
 Identify configuration discrepancies between a Windows Server 2019 system and a Microsoft 
