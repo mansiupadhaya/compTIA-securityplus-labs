@@ -1,4 +1,4 @@
-# Lab 1.1.5 - Exploring the Lab Environment
+# 1 - Exploring the Lab Environment
 
 ### Objective
 Getting familiar with the lab interface, tools and virtual machines (Windows and Kali Linux) that will be used 
